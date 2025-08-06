@@ -1,0 +1,8 @@
+/* Welcome screen title */
+"welcome_title" = "Bienvenue dans la démo de traduction !";
+
+/* App description on main screen */
+"description_text" = "Cette application va démontrer la localisation iOS étape par étape.";
+
+/* Button to tap */
+"button_tap_me" = "Appuyez ici";
